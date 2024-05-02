@@ -13,7 +13,7 @@ Heeft u vragen of wilt u meer weten over onze diensten? Neem gerust contact met 
 - E-mail: a.asbaihalifa@dpb-c.nl
 - Telefoon: +31 6 43801509
 - Website: datablueprintconsulting.nl
-- 
+  
 Met vriendelijke groet,
 
 Adam Asbai Halifa
