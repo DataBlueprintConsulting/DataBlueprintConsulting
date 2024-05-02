@@ -11,7 +11,7 @@ Welkom bij DataBlueprint Consulting! Bij DataBlueprint Consulting wordt een bree
 Heeft u vragen of wilt u meer weten over onze diensten? Neem gerust contact met ons op! U kunt ons bereiken via:
 
 - E-mail: a.asbaihalifa@dpb-c.nl
-- Telefoon: +31 (0) 123 456 789
+- Telefoon: +31 6 43801509
 - Website: datablueprintconsulting.nl
 - 
 Met vriendelijke groet,
