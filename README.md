@@ -15,7 +15,7 @@ Welkom bij **DataBlueprint Consulting**! Mijn naam is **Adam Asbai Halifa**, een
 
 Heeft u vragen of wilt u weten hoe ik uw organisatie kan ondersteunen? Neem gerust contact met mij op! Ik sta klaar om u verder te helpen:
 
-- **LinkedIn** [Adam Asbai Halifa](https://www.linkedin.com/in/adam-asbai-halifa/)
+- **LinkedIn:** [Adam Asbai Halifa](https://www.linkedin.com/in/adam-asbai-halifa/)
 - **E-mail:** [a.asbaihalifa@dpb-c.nl](mailto:a.asbaihalifa@dpb-c.nl)  
 - **Telefoon:** +31 6 43801509  
 - **Website:** [datablueprintconsulting.nl](https://datablueprintconsulting.nl)
