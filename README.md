@@ -24,7 +24,7 @@ My name is **Adam Asbai Halifa**, a freelance Data Engineer with a background in
 
 ### Reference Projects
 
-On my **[GitHub]([https://github.com/adam-asbai-halifa](https://github.com/DataBlueprintConsulting?tab=repositories)))**, you can explore my open-source projects showcasing my skills in data analysis, machine learning, and software development.
+On my **[GitHub]([https://github.com/adam-asbai-halifa](https://github.com/DataBlueprintConsulting?tab=repositories))**, you can explore my open-source projects showcasing my skills in data analysis, machine learning, and software development.
 
 ### Get in Touch
 
@@ -67,7 +67,7 @@ Mijn naam is **Adam Asbai Halifa**, een freelance Data Engineer met een achtergr
 
 ### Referentieprojecten
 
-Op mijn **[GitHub](https://github.com/DataBlueprintConsulting?tab=repositories))** kunt u mijn open-source projecten bekijken. Deze projecten laten mijn vaardigheden zien in data-analyse, machine learning en softwareontwikkeling.
+Op mijn **[GitHub](https://github.com/DataBlueprintConsulting?tab=repositories)** kunt u mijn open-source projecten bekijken. Deze projecten laten mijn vaardigheden zien in data-analyse, machine learning en softwareontwikkeling.
 
 ### Neem Contact Op
 
