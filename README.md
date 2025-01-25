@@ -3,7 +3,7 @@
 ## 🇬🇧 English
 
 Welcome to **DataBlueprint Consulting!**  
-My name is **Adam Asbai Halifa**, a freelance Data Engineer with a background in civil engineering and computer science. Additionally, I have completed a pre-master in Data Science at Radboud University. With my expertise, I help businesses extract valuable insights from their data and transform them into actionable solutions.
+My name is **Adam Asbai Halifa**, a freelance Data Engineer with a background in computer science and structural engineering. Additionally, I have completed a pre-master in Data Science at Radboud University. With my expertise, I help businesses extract valuable insights from their data and transform them into actionable solutions.
 
 ### My Services
 
@@ -46,7 +46,7 @@ _Freelance Data Engineer | DataBlueprint Consulting_
 ## 🇳🇱 Nederlands
 
 Welkom bij **DataBlueprint Consulting!**  
-Mijn naam is **Adam Asbai Halifa**, een freelance Data Engineer met een achtergrond in bouwkunde en informatica. Daarnaast heb ik een pre-master in Data Science afgerond aan de Radboud University. Met mijn expertise help ik bedrijven om waardevolle inzichten te halen uit hun data en deze om te zetten in concrete oplossingen.
+Mijn naam is **Adam Asbai Halifa**, een freelance Data Engineer met een achtergrond in informatica en bouwkunde. Daarnaast heb ik een pre-master in Data Science afgerond aan de Radboud University. Met mijn expertise help ik bedrijven om waardevolle inzichten te halen uit hun data en deze om te zetten in concrete oplossingen.
 
 ### Mijn Diensten
 
